@@ -59,7 +59,6 @@ classdef hw06
             %
             % > For instance, you can comment on the convergence rates of the quadrature rules, and how they compare to the theoretical rates.
             % > Here are a few example questions you can answer in your comments:
-            % > Does the Runge phenomenon of f1 (Runge's function) lower the convergence rate?
             % > Does Simpson's rule have a faster convergence rate than the other two for these examples?
             % > Based on your observations, what kind of functions can have a faster convergence rate with the given composite quadrature rules?
 
